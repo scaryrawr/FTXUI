@@ -406,7 +406,7 @@ int main(int argc, const char *argv[]) {
 }
 ~~~
 
-## Using CMake
+## Using CMake {#build-using-cmake}
 
 CMakeLists.txt
 ~~~cmake
@@ -456,7 +456,7 @@ make
 ./main
 ~~~
 
-## Using NXXM
+## Using NXXM {#build-using-nxxm}
 
 **.nxxm/deps**
 ~~~json
